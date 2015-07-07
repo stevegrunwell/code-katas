@@ -1,0 +1,1 @@
+# Code Katas: What, Where, When, and Why?
