@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Code Katas: What, Where, When, and Why?",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "code-katas"
+  }
+}

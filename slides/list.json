@@ -1,0 +1,19 @@
+[
+    "index.md",
+    [
+        "welcome-to-the-dojo.md",
+        "rabbi.md"
+    ],
+    "what-are-code-katas.md",
+    "understanding-code-katas.md",
+    "why-do-we-practice.md",
+    [
+        "example-kata.md",
+        "sample-output.md",
+        "first-iteration.md",
+        "second-iteration.md",
+        "third-iteration.md",
+        "results.md"
+    ],
+    "resources.md"
+]
